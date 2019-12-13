@@ -167,10 +167,13 @@ header{
     font-family: Nunito;
 }
 .name-product{
-    font-size: 22px;
-    color: #F42E61;
+    font-size: 22px;    
+    color: #231F20;
     margin-top: 10px;
     margin-bottom: 0px;
+}
+.name-product:hover{
+    color: #F42E61;
 }
 .price{
     font-size: 20px;
@@ -320,4 +323,137 @@ footer{
 .title-p{
     font-size: 22px;
     font-weight: bold;
+}
+.name-about{
+    font-size: 28px;
+    text-transform: uppercase;
+    color: #231F20;
+    font-weight: bold;
+    text-align: center;
+}
+.des-about{
+    font-size: 26px;
+    color: #686464;
+    margin-bottom: 30px;
+}
+.w-100{
+    width: 100%;
+}
+.title-a{
+    font-family: Nunito;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+.more{
+    font-size: 22px;
+    font-family: Nunito;
+    color: #686464;
+}
+.content-b{
+    width: 536px;
+    margin:0 auto;
+}
+.des2{
+    font-size: 23px;
+    color: #686464;
+}
+.sort-by{
+    float:right;
+}
+.sort-by span{
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 10px;
+}
+.sort-by select{
+    height: 42px;
+    width: 107px;
+    border: 1px solid #F42F62;
+    border-radius: 8px;
+}
+.load-more{
+    margin-top: 40px;
+    width: 100%;
+    float: left;
+    margin-bottom: 30px;
+}
+.load-more a{
+    color: #fff;
+    padding: 15px;
+    background: #F42F62;
+    font-weight: bold;
+}
+.p1{
+    font-size: 20px;
+    color: #000;
+    font-weight: bold;
+}
+.box-product-related{
+    width: 100%;
+    float: left;
+    margin-bottom: 30px;
+}
+.related{
+    margin-top: 40px;
+}
+.box-related{
+    width: 100%;
+    float: left;
+}
+.box-related i{
+    color: #F42F62;
+}
+.view-more{
+    font-size: 18px;
+    font-weight: bold;
+    font-family: UTM;
+    color: #000;
+}
+.box-category{
+    border: 1px solid #C4C4C4;
+    width: 200px;
+    padding: 10px;
+}
+.box-category h4{
+    font-size: 23px;
+    font-weight: bold;
+    color: #232322;
+    border-bottom: 1px solid #C4C4C4;
+    padding-bottom: 10px;
+}
+.box-category p{
+    font-weight: bold;
+    font-size: 17px;
+    color: #232322;
+}
+.box-category ul li{
+    display: inline-block;
+    width: 33px;
+    height: 33px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.m1{
+    background: #000000;
+}
+.m2{
+    background: #FBCB0A;
+}
+.m3{
+    background: #FF0101;
+}
+.m4{
+    background: #7A7A7A;
+}
+.m5{
+    background: #BBBCBC;
+}
+.size span{
+    border: 1px solid #707070;
+    padding: 3px 5px;
+    margin-right: 6px;
+    margin-bottom: 10px;
+    display: inline-block;
 }
