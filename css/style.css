@@ -518,3 +518,79 @@ footer{
     font-family: Nunito;
     color: #231F20;
 }
+.content-detail{
+    width: 100%;
+    float: left;
+    margin-top: 40px;
+}
+.content-detail img{
+    width: 100%;
+}
+.product-name{
+    font-size: 23px;
+    color: #231F20;
+    font-family: RoboM;
+}
+.product-price{
+    font-size: 23px;
+    color: #747474
+}
+.code{
+    font-size: 23px;
+    font-family: RoboM;
+}
+.short-des{
+    font-size: 23px;
+    color: #868686;
+}
+.color-product, .size-product{
+    font-size: 23px;
+    font-family: RoboM;
+    margin-top: 20px;
+}
+.color-product span{
+    width: 80px;
+    float: left;
+}
+.box-color{
+    background: #000;
+    height: 35px;
+    width: 35px !important;
+    display: block;
+}
+.size-product {
+    width: 100%;
+    float: left;
+}
+.description-product{
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+.title-tab{
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #000000;
+    background: #C5C5C5;
+}
+.description-product .nav-tabs{
+    border-bottom: none;
+}
+.description-product .nav-tabs li{
+    margin-right: 10px;
+}
+.description-product .nav-tabs li.active a{
+    background-color: #F42F62;
+    color: #fff;
+}
+.tab-content{
+    margin-top: 20px;
+    border: 1px solid #F42F62;
+    padding: 15px;
+    font-size: 18px;
+}
+.similar-product{
+    width: 100%;
+    float: left;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
